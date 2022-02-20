@@ -1,0 +1,3 @@
+[submodule "server/quanta"]
+	path = server/quanta
+	url = https://github.com/xiyoo0812/quanta.git
