@@ -1,2 +1,2 @@
-# DreamWorld
-A Dream World Game！base on quanta and defold!
+# aurora
+a dream game！base on quanta and defold!
