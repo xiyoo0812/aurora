@@ -1,3 +1,4 @@
-[submodule "server/quanta"]
-	path = server/quanta
-	url = https://github.com/xiyoo0812/quanta.git
+
+[submodule "quanta"]
+	path = quanta
+	url = https://gitee.com/xiyoo0812/quanta
