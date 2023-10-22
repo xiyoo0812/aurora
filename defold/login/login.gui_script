@@ -1,3 +1,5 @@
+require "engine.init"
+
 local Euler = require "euler.euler"
 
 local euler = Euler()
